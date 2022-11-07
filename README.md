@@ -6,7 +6,7 @@ In the project directory, you can run:
 At first we install npm dependencies 
 
 In the project we use MySQL Database and the nex step we must
-go to ormconfig.json ang add our personal `username` and `password`
+go into ormconfig.json ang add our personal `username` and `password`
 
 ```js
 { 

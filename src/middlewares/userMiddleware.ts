@@ -1,4 +1,5 @@
 import { NextFunction, Request, Response } from 'express';
+
 import { userValidation } from '../validation/userValidation';
 import { ErrorHandler } from '../errorHandler/errorHandler';
 import { userRepository } from '../repositories/userRepository';
